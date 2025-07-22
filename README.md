@@ -1,7 +1,11 @@
 Judul Proyek Akhir: Monitoring Suhu Mesin Produksi via ThingSpeak
+
 Mata Kuliah: Sistem Mikrokontroler
+
 Kelas: TIF RM 22 CID – Teknik Informatika, Universitas Teknologi Bandung
+
 Dosen Pengampu: Muchamad Rusdan, S.T., M.T.
+
 Nama: Muhammad Dena (21552011440)
 
 Penjelasan Proyek Akhir:
